@@ -1,0 +1,33 @@
+CARA UNTUK KONEKSI KE GITHUB DARI LOCAL KE GIT
+
+Tanggal 20 September 2023
+
+
+1. menabahkan remot baru dari local ke git hub
+git remote add origin https://github.com/santosowork/koneksi.git
+
+2. melihat detail remot git
+git remote --v
+
+3. mendorong data lokal ke github
+git push -u origin main
+
+
+
+
+
+
+#mengatur konfigurasi user global git
+1. git config --global "santoso.hr@outlook.com"
+
+
+
+
+
+
+=====================
+user.name=santosowork
+user.email=santoso.hr@outlook.com
+
+
+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a
